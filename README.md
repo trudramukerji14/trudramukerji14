@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Tantrik 👋
+
+I'm a mathematician turned engineer with startup experience in robotics. I'm currently working in stealth on making accelerated computing more accessible for machine learning, with a focus on GPUs, compilers, and efficient computing.
+
 
 <!--
 **trudramukerji14/trudramukerji14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
