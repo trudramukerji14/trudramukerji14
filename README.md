@@ -1,6 +1,6 @@
 ## Hi I'm Tantrik 👋
 
-I'm a mathematician turned engineer with startup experience in robotics. I'm currently working in stealth on making accelerated computing more accessible for on-device machine learning, with a focus on GPUs, compilers, and efficient computing.
+I'm a mathematician turned engineer with startup experience in robotics. I'm currently working in stealth on accelerated computing.
 
 
 <!--
